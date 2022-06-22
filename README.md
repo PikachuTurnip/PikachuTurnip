@@ -1,0 +1,4 @@
+- Hi, I’m PikachuTurnip
+- I’m interested in art and animating
+- I’m currently learning 3d modeling, mostly Minecraft models in blockbench.
+- I'm really good at pixel art as well :)
