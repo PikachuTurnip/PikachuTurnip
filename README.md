@@ -5,6 +5,12 @@ I am learning 3d modeling, mostly Minecraft models for now.
 
 You can find my art on [my YouTube](https://www.youtube.com/channel/UCsOi899o0O_xiaEOdKArMkg) and [my Instagram](https://www.instagram.com/pikachuturnip/)!
 
+My stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikachuTurnip&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PikachuTurnip&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Software I use:
 
 <a href=https://www.microsoft.com/en-us/windows>
