@@ -1,4 +1,4 @@
-###### HELLO , WORLD! ;]
+# HELLO , WORLD! ;]
 
 My name is PikachuTurnip, I am an artist and animator from Bosnia.
 I also know a bit of Python :)
