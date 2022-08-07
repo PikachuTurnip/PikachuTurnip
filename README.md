@@ -22,9 +22,11 @@ Software I use:
 <a href=https://www.jetbrains.com/pycharm>
 <img src=https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png width=50px height=50px>
 </a>
-<a href=https://www.jetbrains.com/pycharm>
+<a href=https://www.blockbench.net/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png width=50px height=50px>
+</a>
+<a href=https://ibispaint.com/?lang=en-US>
 <img src=https://play-lh.googleusercontent.com/s8moWkCF9wE-ynJgNyq8k3uhhVlbQLdphqTYJWkrsLRxkFZxx9FvykHmwXYmTl_h0l8 width=50px height=50px>
 </a>
-
 
 
