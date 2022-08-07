@@ -37,8 +37,8 @@ Software I use:
 <a href=https://krita.org/en//>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/600px-Calligrakrita-base.svg.png width=50px height=50px>
 </a>
-<a href=https://www.aseprite.org/)>
-<img src=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAjVBMVEX///9lVWF9kp6+yc9iUl5fTlu/ur5cS1iqo6h1jJmknaKFeoLT2d1wcn5zZnB+cnu3srZuX2rCztRoXmrp5+ixucDh5unY3+JYRVORoqybnKT19/iIhY53b3mCdn94hpLRztCwrLGstLuWkpqQiZHt7/FWP01POEiKnadxiZZ0fol4h5OAgoydn6aSj5dKuN4TAAACtElEQVR4nO3da3OaQBSA4SggNVqN1guNl5gYNGmT/v+f1y9lDzsjY4/AWVvf5zPu4c2ECTKavbsDAAAAAAAAAOAGDZfOw72xZ5k9bK8wcqbrNDGVbqYyfWVSGHdMxRRSSCGFFFJ4jYVpbCppsXAlXubOfjuw9SqzX/LSOdUPXMiPLjqkhcOu/so6s6MMn8spLeuvXC5M3WWR7eqvrDPL3PCUQh0KrVB4OQqtUHi5GyicimNWOO7qr6wzKw2fyyk1UNgbbZx85rR3e19FZudrd0aj5/oL90pvIuqv1oxxUpxR+qX+aj25+K6n0L05TSj8CxSGQKEOhSFQqENhCBTqUBgChToUhkChDoUhUKijK9yPt3+MVU/Beu5128H5o0MWDuQp2L1myoN7opdMzh8dtFBmKwvdEArvKNSi0EdhFQp9FOpQ6KOwCoU+CnUo9FFYhUIfhToU+iisQqGPQh0KfRRWodBHoQ6FPgqrUOijUIdCH4VVKPRRqEOhj8IqFPr+7U99XXvh68RRFfY67nWj80fz6UsdCkOgUIfCECjUoTAECnUoDIFCHQpDoFCHwhAo1KEwBAp1KAyBQh0KQ6BQh8IQKNShMIT/v3DbWuF3562B/zKtk7/J9G+dlgo7XefdvHDxLtMtCvst7tB3Wk7hxSi0QuHlKLRC4eUqCu3vaawLo6GxqG9b2O2b6xoXBkUhhRSGRyGFFIbXcKFskZuGLit0Mrdxrup7K6ctItmoLpMtln9YVz257xvFWbN7553e/zC2L3RPgW12eKSQQgoppJDC2y08JIXUvPBn6oZnzRauFmL/WPj8+Grs49MNf1zKKeX1C8tKt6hruU00kWxkdtTedsvyyzFdy2VhIt5MZTqFFFJIIYUUXkuh8V98q0K5r/g1Gdlam9zTAAAAAAAAAAAAtOg3m+27WXAyI54AAAAASUVORK5CYII= width=50px height=50px>
+<a href=https://www.aseprite.org/>
+<img src=https://pbs.twimg.com/profile_images/875731732389146624/-UznwnAx_400x400.jpg width=50px height=50px>
 </a>
 <a href=https://www.adobe.com/products/animate.html>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/512px-Adobe_Animate_CC_icon_%282020%29.svg.png width=50px height=50px>
