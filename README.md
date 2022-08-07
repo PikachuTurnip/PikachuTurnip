@@ -7,6 +7,6 @@ You can find my art on [my YouTube](https://www.youtube.com/channel/UCsOi899o0O_
 
 Software I use:
 
-<a href=(https://www.microsoft.com/en-us/windows)>
+<a href=https://www.microsoft.com/en-us/windows>
 <img src=https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg.png width=50px height=50px>
 </a>
