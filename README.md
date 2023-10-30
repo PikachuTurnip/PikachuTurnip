@@ -1,17 +1,14 @@
-# HELLO , WORLD! ;]
+# hello , world
 
-My name is PikachuTurnip, I am an artist and programmer from Bosnia.
-I am learning 3d modeling, mostly Minecraft models for now.
+I'm pikachu
 
-You can find my art on [my YouTube](https://www.youtube.com/channel/UCsOi899o0O_xiaEOdKArMkg) and [my Instagram](https://www.instagram.com/pikachuturnip/)!
-
-My stats:
+stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikachuTurnip&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PikachuTurnip&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Software I use:
+stuff I use:
 
 <a href=https://www.microsoft.com/en-us/windows>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/88px-Windows_logo_-_2012.svg.png width=50px height=50px>
